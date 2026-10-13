@@ -1,0 +1,7 @@
+google-adk
+fastmcp
+sympy
+scipy
+numpy
+python-dotenv
+streamlit
